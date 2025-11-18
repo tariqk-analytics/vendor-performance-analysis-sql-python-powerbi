@@ -37,7 +37,7 @@ Effective inventory and sales management are critical in the retail sector. This
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- Multiple CSV files located in `/data/` folder (sales, vendors, inventory) in zip format
+- Multiple CSV files located in `/data/` folder (sales, vendors, inventory)
 - Summary table created from ingested data and used for analysis
 
 ---

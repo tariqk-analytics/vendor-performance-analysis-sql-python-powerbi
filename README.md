@@ -45,7 +45,7 @@ Effective inventory and sales management are critical in the retail sector. This
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
 - SQL (Common Table Expressions, Joins, Filtering)
-- Python (Pandas, Matplotlib, Seaborn, SciPy)
+- Python (Pandas, Matplotlib, Seaborn)
 - Power BI (Interactive Visualizations)
 - GitHub
 

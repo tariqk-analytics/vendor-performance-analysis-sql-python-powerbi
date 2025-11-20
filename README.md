@@ -127,7 +127,7 @@ vendor-performance-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tariqk-analytics/vendor-performance-analysis.git
+git clone https://github.com/tariqk-analytics/vendor-performance-analysis-sql-python-powerbi.git
 ```
 2. Load the CSVs and ingest into database:
 ```bash

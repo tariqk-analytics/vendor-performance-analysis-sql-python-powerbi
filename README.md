@@ -5,7 +5,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 
 ---
 
-## 📌 Table of Contents
+## 📌 Table of Content
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
